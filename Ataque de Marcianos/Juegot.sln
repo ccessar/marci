@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{9626F76E-F869-CDA2-70AB-D8DECDC35F99}") = "Juegot", "Assembly-CSharp.csproj", "{DFC981E9-2D7A-F513-4209-178DCA323507}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFC981E9-2D7A-F513-4209-178DCA323507}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFC981E9-2D7A-F513-4209-178DCA323507}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFC981E9-2D7A-F513-4209-178DCA323507}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFC981E9-2D7A-F513-4209-178DCA323507}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
